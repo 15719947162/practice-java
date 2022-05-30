@@ -5,7 +5,13 @@
  * 2. 执行里面的main函数（主入口）
 */
 
-
+/**
+ * 类的声明要有可见性修饰符，修饰符包括
+ * 1. public(可以在类、方法、数据源前使用public修饰符，表示他们可以被任何其他类访问)
+ * 2. protected
+ * 3. private
+ * 4. 默认修饰符
+ */
 public class App {
     public static void main(String[] args) {
         System.out.println("Hello, World!");

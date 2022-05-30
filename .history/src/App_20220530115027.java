@@ -5,11 +5,14 @@
  * 2. 执行里面的main函数（主入口）
 */
 
-
 public class App {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
     }
+}
+class Abc {
+    
+
 }
 
 

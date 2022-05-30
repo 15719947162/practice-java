@@ -4,13 +4,11 @@
  * 1. 会先找到与文件名相同的类(无论写在哪里)
  * 2. 执行里面的main函数（主入口）
 */
-
-
 public class App {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         System.out.println("Hello, World!");
     }
 }
-
-
-
+public class HHB {
+    
+}

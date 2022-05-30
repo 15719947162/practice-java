@@ -5,7 +5,10 @@
  * 2. 执行里面的main函数（主入口）
 */
 
-
+/**
+ * 类的声明要有可见性修饰符，修饰符包括
+ * 1.public
+ */
 public class App {
     public static void main(String[] args) {
         System.out.println("Hello, World!");

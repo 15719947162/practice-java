@@ -5,12 +5,17 @@
  * 2. 执行里面的main函数（主入口）
 */
 
-
 public class App {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
     }
 }
+class Abc {
+    
 
+}
 
+/**
+ * 类的声明要有可见性修饰符
+ */
 
